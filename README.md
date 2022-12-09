@@ -1,2 +1,2 @@
 # Hit_os
-Os_lab_from_HG
+Os_lab_from_HIT
